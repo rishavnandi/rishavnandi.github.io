@@ -14,26 +14,26 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Forked                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: My minimal and lightweight docs website, built using Jekyll   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Blogs on my GitHub projects
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://rishavnandi.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: rishavnandi             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: rishavnandi            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -42,8 +42,8 @@ social:
   email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/rishavnandi      # change to your twitter homepage
+    - https://github.com/rishavnandi       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://free4kwallpapers.com/uploads/originals/2019/02/18/just-another-skull-wallpaper.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
