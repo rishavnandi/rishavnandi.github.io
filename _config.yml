@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://free4kwallpapers.com/uploads/originals/2019/02/18/just-another-skull-wallpaper.jpg
+avatar: https://i.pinimg.com/originals/70/e8/e4/70e8e4cfb59333cb1b92a37b42f2601b.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
