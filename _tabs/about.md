@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> My name is Rishav Nandi, I'm a computer science sophomore and a system administration enthusiast. This is my personal website where I publish documentation related to my [projects](https://github.com/rishavnandi).
 {: .prompt-tip }
