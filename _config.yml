@@ -19,9 +19,9 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Everything is Forked                          # the main title
+title: tldr                          # the main title
 
-tagline: My minimal and lightweight docs website, built using Jekyll   # it will display as the sub-title
+tagline: I'm Rishav Nandi and this is my blog website where I write and maintain docs related to my projects.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Blogs on my GitHub projects
